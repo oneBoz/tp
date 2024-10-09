@@ -40,7 +40,7 @@
       "src": "DeveloperGuide.md",
       "title": "Developer Guide",
       "headings": {
-        "ab-3-developer-guide": "AB-3 Developer Guide",
+        "goats-developer-guide": "GOATS Developer Guide",
         "acknowledgements": "Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
@@ -131,7 +131,7 @@
       "src": "index.md",
       "title": "",
       "headings": {
-        "addressbook-level-3": "AddressBook Level-3"
+        "goats-greatest-online-address-book-for-tutoring-students": "GOATS (Greatest Online Address-book for Tutoring Students)"
       },
       "headingKeywords": {}
     },
@@ -144,7 +144,7 @@
       "headingKeywords": {}
     },
     {
-      "src": "team/elliot.md",
+      "src": "team/elliot-tang.md",
       "title": "Elliot's Project Portfolio Page",
       "headings": {
         "project-goats-greatest-online-address-book-for-tutoring-students": "Project: GOATS (Greatest Online Address-book for Tutoring Students)"
@@ -152,7 +152,7 @@
       "headingKeywords": {}
     },
     {
-      "src": "team/isaac.md",
+      "src": "team/isaacpangth.md",
       "title": "John Doe's Project Portfolio Page",
       "headings": {
         "project-goats": "Project: GOATS"
@@ -168,7 +168,7 @@
       "headingKeywords": {}
     },
     {
-      "src": "team/oneBoz.md",
+      "src": "team/oneboz.md",
       "title": "Yi He's Project Portfolio Page",
       "headings": {
         "project-goats": "Project: GOATS"
