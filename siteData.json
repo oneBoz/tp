@@ -63,7 +63,7 @@
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
         "deleting-a-person": "Deleting a person",
-        "saving-data": "Saving data"
+        "loading-data": "Loading data"
       },
       "headingKeywords": {}
     },
@@ -105,6 +105,7 @@
     },
     {
       "src": "UserGuide.md",
+      "title": "User Guide",
       "headings": {
         "goats-user-guide": "GOATS User Guide",
         "introduction": "Introduction",
@@ -119,15 +120,19 @@
         "editing-a-person-edit": "Editing a person : edit",
         "locating-persons-by-name-find": "Locating persons by name: find",
         "locating-persons-by-tag-findtag": "Locating persons by tag: findtag",
+        "locating-students-by-lesson-day-findday": "Locating students by lesson day: findday",
         "viewing-help-help": "Viewing help : help",
         "pinning-a-person-pin": "Pinning a person: pin",
         "unpinning-a-person-unpin": "Unpinning a person : unpin",
         "archive-a-person-archive": "Archive a person : archive",
-        "unarchive-a-person-unarchive": "Unarchive a person : Unarchive",
+        "unarchive-a-person-unarchive": "Unarchive a person : unarchive",
         "listing-all-persons-list": "Listing all persons : list",
+        "listing-all-archived-persons-listarchive": "Listing all archived persons : listarchive",
         "listing-students-liststudents": "Listing students : liststudents",
         "listing-parents-listparents": "Listing parents : listparents",
-        "listing-all-archived-persons-listarchive": "Listing all archived persons : listarchive",
+        "link-a-parent-to-a-student-link": "Link a parent to a student : link",
+        "unlink-a-parent-from-a-student-unlink": "Unlink a parent from a student : unlink",
+        "sorting-all-persons-sort": "Sorting all persons: sort",
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
         "editing-the-data-file": "Editing the data file",
@@ -138,9 +143,9 @@
     },
     {
       "src": "index.md",
-      "title": "",
       "headings": {
-        "goats-greatest-online-address-book-for-tutoring-students": "GOATS (Greatest Online Address-book for Tutoring Students)"
+        "goats-greatest-online-address-book-for-tutoring-students": "GOATS (Greatest Online Address-book for Tutoring Students)",
+        "introducing-goats": "Introducing GOATS"
       },
       "headingKeywords": {}
     },
@@ -148,7 +153,7 @@
       "src": "team/ckclion.md",
       "title": "Chua Kee Chin's Project Portfolio Page",
       "headings": {
-        "project-goats": "Project: GOATS"
+        "project-goats-greatest-online-address-book-for-tutorial-students": "Project: GOATS (Greatest Online Address-book for Tutorial Students)"
       },
       "headingKeywords": {}
     },
@@ -164,7 +169,7 @@
       "src": "team/isaacpangth.md",
       "title": "John Doe's Project Portfolio Page",
       "headings": {
-        "project-goats": "Project: GOATS"
+        "project-goats-greatest-online-address-book-for-tutorial-students": "Project: GOATS (Greatest Online Address-book for Tutorial Students)"
       },
       "headingKeywords": {}
     },
@@ -180,7 +185,7 @@
       "src": "team/oneboz.md",
       "title": "Yi He's Project Portfolio Page",
       "headings": {
-        "project-goats": "Project: GOATS"
+        "project-goats-greatest-online-address-book-for-tutorial-students": "Project: GOATS (Greatest Online Address-book for Tutorial Students)"
       },
       "headingKeywords": {}
     }
